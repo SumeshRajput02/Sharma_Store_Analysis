@@ -12,4 +12,4 @@ Based on this insights I came to end of decision
 Sharma store can target the adult women in  Maharastra, Karnataka, UP, Telangana & Tamilnadu on Amazon, Flipkart & Myntra. You can provide coupon, offers etc.
 
 For reference i have attached the dashboard image.
-
+ 
